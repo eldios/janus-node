@@ -1,0 +1,4 @@
+* if cannot connect to socket (or get disconnected) setInterval trying to connect to the socket indefinitely ('til Ctrl+C)
+* try to create an inplace redrawing CLI console panel
+* use colors on output stats
+* 
